@@ -1,6 +1,6 @@
 # PORT-FORWARDING-ONLINE-GAMES
 Forward Ports on your Router for Online Games
-======================================================================
+
 Port forward Game: Origin APEX Legends<br>
 TCP: 9960-9969,1024-1124,3216,18000,18120,18060,27900,28910,29900 <br>
 UDP: 1024-1124,18000,29900,37000-40000<br>
